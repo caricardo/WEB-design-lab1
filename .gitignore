@@ -7,3 +7,8 @@ postgres.ini.secure
 *.xlsx
 *.odt
 *.ods
+*.pdf
+*.sh
+*.drawio
+*.xcf
+
